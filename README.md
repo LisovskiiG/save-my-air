@@ -9,7 +9,7 @@
 
 1. **Set your activity and temperature.** Select walking, running, cycling, or heavy outdoor work. Choose winter (−30 to +5 °C) or summer (+5 to +50 °C), then enter the air temperature.
 2. **Select the pollutants and pollution level.** You can combine urban smog (PM2.5), road dust (PM10), paints and varnishes, plant pollen, microorganisms and viruses, wood dust, and cement dust. Choose one of five levels from green through yellow, red, purple, and maroon.
-3. **Check the recommendation and start the countdown.** Select **Put on** (**Надеть** in the web interface) to start the timer. The same button changes to **Take off** (**Снять**). Select it to end the session and reset the countdown. The dial changes color as time runs low.
+3. **Check the recommendation and start the countdown.** Select **Put on** to start the timer. The same button changes to **Take off**. Select it to end the session and reset the countdown. The dial changes color as time runs low.
 
 ### How the respirator is selected
 
@@ -93,7 +93,7 @@ The service multiplies the applicable factors. For example, cycling at +35 °C w
 
 1. **Әрекет түрі мен температураны көрсетіңіз.** Жаяу жүруді, жүгіруді, велосипед тебуді немесе ашық ауада ауыр жұмыс істеуді таңдаңыз. Маусым мен ауа температурасын көрсетіңіз. Қысқы аралық −30-дан +5 °C-қа дейін, жазғы аралық +5-тен +50 °C-қа дейін.
 2. **Ластағыштар мен ластану деңгейін таңдаңыз.** Қалалық смогты (PM2.5), жол шаңын (PM10), лактар мен бояуларды, өсімдік тозаңын, микроағзалар мен вирустарды, ағаш пен цемент шаңын қатар таңдауға болады. Жасыл, сары, қызыл, күлгін немесе қою қызыл деңгейді таңдаңыз.
-3. **Ұсынысты қарап, таймерді іске қосыңыз.** Кері санақты бастау үшін **«Тағу»** түймесін басыңыз (сервис интерфейсінде **«Надеть»**). Түйменің жазуы **«Шешу»** болып өзгереді (интерфейсте **«Снять»**). Оны қайта басқанда сеанс аяқталып, таймер нөлге түседі. Уақыт азайған сайын таймер шкаласының түсі өзгереді.
+3. **Ұсынысты қарап, таймерді іске қосыңыз.** Кері санақты бастау үшін **«Тағу»** түймесін басыңыз. Түйменің жазуы **«Шешу»** болып өзгереді. Оны қайта басқанда сеанс аяқталып, таймер нөлге түседі. Уақыт азайған сайын таймер шкаласының түсі өзгереді.
 
 ### Респиратор қалай таңдалады
 
